@@ -1,0 +1,4 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArchiMate Inventory-to-DeliveBusiness layer (yellow) Warehouse , inventory management (gammes/ranges, nomenclatures) , transporter, logisticsBusiness process : Order and checks, delivery managementApplication Layer (blue)&#x9;IT - application to manage the inventory and deliveries &#x9;ERP&#x9;parcel trackingTechnology Layer (Green)System software, hardwaremobile device ? (to scan parcels to ensure the tracking -> here or in the application layer?)cloud server, data managementpart 1as-is/baseline assessment 20%part2 to-be alternative solution design 40%part3…"
+    id="id-9b5ef17db64a412185bcb27695ba1475"/>
