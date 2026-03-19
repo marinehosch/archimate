@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.3_Business Outbound delivery"
+    id="id-952cb0b7169a443280aa280d8e6d6fe5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2e8a1d498f534f0c943225eda32d9b36">
+    <bounds
+        x="432"
+        y="372"
+        width="241"
+        height="121"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-3d60a3db390f40d7bd10dd4fbe5bd184.xml#id-3d60a3db390f40d7bd10dd4fbe5bd184"/>
+  </children>
+</archimate:ArchimateDiagramModel>

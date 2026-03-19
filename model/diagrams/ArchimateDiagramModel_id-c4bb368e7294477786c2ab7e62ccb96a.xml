@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.2_Business Warehouse operations"
+    id="id-c4bb368e7294477786c2ab7e62ccb96a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9b5268c63782421aa2816ff87e86fd64">
+    <bounds
+        x="432"
+        y="372"
+        width="241"
+        height="121"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-1990413ad84e459ca56c4816f39dcea6.xml#id-1990413ad84e459ca56c4816f39dcea6"/>
+  </children>
+</archimate:ArchimateDiagramModel>
