@@ -75,9 +75,9 @@
           href="CompositionRelationship_id-15e86e8092554d88b1d08d358ea63b34.xml#id-15e86e8092554d88b1d08d358ea63b34"/>
     </sourceConnections>
     <bounds
-        x="133"
+        x="108"
         y="408"
-        width="1008"
+        width="1032"
         height="252"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -111,7 +111,7 @@
             href="CompositionRelationship_id-9ffaf21b12d4488095c92835d36ae980.xml#id-9ffaf21b12d4488095c92835d36ae980"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="73"
           y="24"
           width="949"
           height="205"/>
