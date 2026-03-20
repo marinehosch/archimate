@@ -934,16 +934,4 @@
         xsi:type="archimate:Assessment"
         href="Assessment_id-3749ccb3fc5847b6a1daac3c7fbe9005.xml#id-3749ccb3fc5847b6a1daac3c7fbe9005"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e5e4e88bd61147829571daf6193cf200">
-    <bounds
-        x="894"
-        y="1392"
-        width="120"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:DataObject"
-        href="DataObject_id-b01e29495c394dbc950499832a63b80f.xml#id-b01e29495c394dbc950499832a63b80f"/>
-  </children>
 </archimate:ArchimateDiagramModel>
