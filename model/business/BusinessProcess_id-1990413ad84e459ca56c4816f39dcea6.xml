@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Warehouse operations"
-    id="id-1990413ad84e459ca56c4816f39dcea6"/>
+    id="id-1990413ad84e459ca56c4816f39dcea6"
+    documentation="picking/packing"/>
