@@ -328,19 +328,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-38af683002b543ca874a5829ec89bba0"
-      fontColor="#ff0000">
-    <bounds
-        x="48"
-        y="396"
-        width="133"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessEvent"
-        href="BusinessEvent_id-0549ed6e2d1d4188a1ce127fcf12233a.xml#id-0549ed6e2d1d4188a1ce127fcf12233a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-973f9590316d4c6b877627df3ff80a34"
       targetConnections="id-f00d229f9f8b46199fb226c825a63d8a"
       fontColor="#ff0000">
