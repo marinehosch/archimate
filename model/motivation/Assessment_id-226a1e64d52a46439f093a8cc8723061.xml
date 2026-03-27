@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="shipping : applicationInterface missing"
+    id="id-226a1e64d52a46439f093a8cc8723061"
+    documentation="In Odoo, no automated UPS integration in the as-is. "/>
