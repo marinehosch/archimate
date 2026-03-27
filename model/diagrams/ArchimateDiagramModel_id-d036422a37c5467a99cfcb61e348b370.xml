@@ -303,7 +303,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fe4a8861ecb9412baccbd007053ab7c1"
       targetConnections="id-631d6352e7d14bf3a5f3044a9db0d3bb id-b78156dcd3c34a6c9247438257db1c38"
-      fontColor="#ff0000">
+      fontColor="#000000">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-392166919858471595cd49994129eda8"
