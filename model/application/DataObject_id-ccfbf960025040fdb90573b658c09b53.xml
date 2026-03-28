@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Stock Record (Odoo)"
+    id="id-ccfbf960025040fdb90573b658c09b53"
+    documentation="record in the odoo data base to track the stock"/>
