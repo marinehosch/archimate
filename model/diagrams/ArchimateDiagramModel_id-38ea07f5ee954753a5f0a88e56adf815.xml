@@ -65,7 +65,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4d2dfc97be7e4a4ca2c746ad35b6f02a"
-        targetConnections="id-08e32923acc84b83bce70c9bc563b7e0 id-e59e5dba9a974c8aa0e537465f5266ab">
+        targetConnections="id-08e32923acc84b83bce70c9bc563b7e0 id-4cae7e6fb87c484190a9ab340fa8f356">
       <bounds
           x="540"
           y="24"
@@ -78,7 +78,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8bc5901ccb8e4219911642a1ea5407e2"
-        targetConnections="id-5c4e2a5d86bc495b999308319e602beb id-89b76cb9ef254a24bd503b872c73434e">
+        targetConnections="id-5c4e2a5d86bc495b999308319e602beb id-16a7c77487f4426888361cadbc8207d8">
       <bounds
           x="372"
           y="24"
@@ -208,15 +208,6 @@
               xsi:type="archimate:AssignmentRelationship"
               href="AssignmentRelationship_id-01e6c16b7aa44e0da000a986ab9466d1.xml#id-01e6c16b7aa44e0da000a986ab9466d1"/>
         </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-b16dfd5aba7c44b98e09e5db3df7bfda"
-            source="id-961d4ac29dbe4f9f8ab66db0a6faff14"
-            target="id-3ac5a03345734edab6f37b2056ca6c00">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_id-da69778b914e44379cf06d091cf71f38.xml#id-da69778b914e44379cf06d091cf71f38"/>
-        </sourceConnections>
         <bounds
             x="36"
             y="36"
@@ -270,6 +261,34 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-5ebded6b39e544f388cfbcf39fd64174"
             targetConnections="id-92704a55eee84287bfbd37b64e07df33 id-18bb9ea8c932472885d978371fbb0252">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-b16dfd5aba7c44b98e09e5db3df7bfda"
+              source="id-5ebded6b39e544f388cfbcf39fd64174"
+              target="id-3ac5a03345734edab6f37b2056ca6c00">
+            <bendpoints
+                startX="90"
+                endX="96"
+                endY="420"/>
+            <bendpoints
+                startX="90"
+                startY="-96"
+                endX="96"
+                endY="324"/>
+            <bendpoints
+                startX="90"
+                startY="-192"
+                endX="96"
+                endY="228"/>
+            <bendpoints
+                startX="6"
+                startY="-288"
+                endX="12"
+                endY="132"/>
+            <archimateRelationship
+                xsi:type="archimate:RealizationRelationship"
+                href="RealizationRelationship_id-da69778b914e44379cf06d091cf71f38.xml#id-da69778b914e44379cf06d091cf71f38"/>
+          </sourceConnections>
           <bounds
               x="48"
               y="216"
@@ -350,24 +369,6 @@
               xsi:type="archimate:AssignmentRelationship"
               href="AssignmentRelationship_id-592de4bbf0724ef4a8451959d6eb3443.xml#id-592de4bbf0724ef4a8451959d6eb3443"/>
         </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-89b76cb9ef254a24bd503b872c73434e"
-            source="id-24ec6a1c313e428ebeadfbb3bdbd593d"
-            target="id-8bc5901ccb8e4219911642a1ea5407e2">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_id-b84e33ed1c0043ef9890b8f633bdbdf2.xml#id-b84e33ed1c0043ef9890b8f633bdbdf2"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-e59e5dba9a974c8aa0e537465f5266ab"
-            source="id-24ec6a1c313e428ebeadfbb3bdbd593d"
-            target="id-4d2dfc97be7e4a4ca2c746ad35b6f02a">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_id-cb9eced39efc46bb91050e010aa6bc89.xml#id-cb9eced39efc46bb91050e010aa6bc89"/>
-        </sourceConnections>
         <bounds
             x="372"
             y="36"
@@ -411,7 +412,7 @@
           </sourceConnections>
           <bounds
               x="48"
-              y="132"
+              y="120"
               width="132"
               height="48"/>
           <archimateElement
@@ -432,9 +433,26 @@
                 xsi:type="archimate:TriggeringRelationship"
                 href="TriggeringRelationship_id-df63c24e83de4b9094794afb3e69f4c6.xml#id-df63c24e83de4b9094794afb3e69f4c6"/>
           </sourceConnections>
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-4cae7e6fb87c484190a9ab340fa8f356"
+              source="id-75a4f3f37c1e469692e2f13775765ab6"
+              target="id-4d2dfc97be7e4a4ca2c746ad35b6f02a">
+            <bendpoints
+                startX="78"
+                startY="12"
+                endY="420"/>
+            <bendpoints
+                startX="78"
+                startY="-180"
+                endY="228"/>
+            <archimateRelationship
+                xsi:type="archimate:RealizationRelationship"
+                href="RealizationRelationship_id-f8ab12ecd4ae4be4b9407c527d1d93be.xml#id-f8ab12ecd4ae4be4b9407c527d1d93be"/>
+          </sourceConnections>
           <bounds
               x="48"
-              y="216"
+              y="204"
               width="132"
               height="48"/>
           <archimateElement
@@ -446,6 +464,23 @@
             id="id-04c776a1aa4b48a988d6271c81312715"
             targetConnections="id-fbd749dbbda24fbdb826d83a9b132e33 id-1189cfb6e97e48048b4c791cfbee61cf"
             fontColor="#000000">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-16a7c77487f4426888361cadbc8207d8"
+              source="id-04c776a1aa4b48a988d6271c81312715"
+              target="id-8bc5901ccb8e4219911642a1ea5407e2">
+            <bendpoints
+                startX="-90"
+                startY="12"
+                endY="504"/>
+            <bendpoints
+                startX="-90"
+                startY="-252"
+                endY="240"/>
+            <archimateRelationship
+                xsi:type="archimate:RealizationRelationship"
+                href="RealizationRelationship_id-b81bd0eb13e24778b06265d721f85666.xml#id-b81bd0eb13e24778b06265d721f85666"/>
+          </sourceConnections>
           <bounds
               x="48"
               y="288"
@@ -592,27 +627,5 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-0244e982161a4a10a7f30d3396f5d8d8.xml#id-0244e982161a4a10a7f30d3396f5d8d8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-55187b71d0fa47f7a92a99f36d46c1ca"
-      textAlignment="1"
-      content="et avec un viewpoint inventory ? est-ce que qqch change ?&#xA;&#xA;pourquoi il y a-t-il 2x label genration et picking list? &#xA;&#xA;qu'est-ce que &quot;fn&quot; dans sales et inventory ?">
-    <bounds
-        x="240"
-        y="1032"
-        width="301"
-        height="164"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-5e4cd1e8608a4665afbbaaf0db19dc61"
-      textAlignment="1"
-      content="Réponse Alizée :&#xD;&#xA;1) Un viewpoint “Inventory” ne change pas le modèle mais le focus : on met l’accent sur les parties liées à l’inventaire (Inventory Management, Shipping), tout en gardant Sales car il alimente le processus.&#xD;&#xA;&#xD;&#xA;2) “Label generation” et “Picking list” apparaissent deux fois car ils existent à deux niveaux : en interne comme fonctions (comment le système travaille) et en externe comme services (ce qu’il expose au business).&#xD;&#xA;&#xD;&#xA;3) “fn” signifie Application Function il me semble, c’est-à-dire une fonctionnalité interne du système (comme “Order entry” ou “Stock reservation”), mais je ne sais pas s'il a été modifié ou enlevé car je ne voit pas de &quot;fn&quot; sur le modèle actuel">
-    <bounds
-        x="564"
-        y="1032"
-        width="1117"
-        height="157"/>
   </children>
 </archimate:ArchimateDiagramModel>
