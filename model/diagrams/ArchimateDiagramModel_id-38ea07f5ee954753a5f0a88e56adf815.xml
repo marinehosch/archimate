@@ -604,4 +604,15 @@
         width="301"
         height="164"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5e4cd1e8608a4665afbbaaf0db19dc61"
+      textAlignment="1"
+      content="Réponse Alizée :&#xD;&#xA;1) Un viewpoint “Inventory” ne change pas le modèle mais le focus : on met l’accent sur les parties liées à l’inventaire (Inventory Management, Shipping), tout en gardant Sales car il alimente le processus.&#xD;&#xA;&#xD;&#xA;2) “Label generation” et “Picking list” apparaissent deux fois car ils existent à deux niveaux : en interne comme fonctions (comment le système travaille) et en externe comme services (ce qu’il expose au business).&#xD;&#xA;&#xD;&#xA;3) “fn” signifie Application Function il me semble, c’est-à-dire une fonctionnalité interne du système (comme “Order entry” ou “Stock reservation”), mais je ne sais pas s'il a été modifié ou enlevé car je ne voit pas de &quot;fn&quot; sur le modèle actuel">
+    <bounds
+        x="564"
+        y="1032"
+        width="1117"
+        height="157"/>
+  </children>
 </archimate:ArchimateDiagramModel>
