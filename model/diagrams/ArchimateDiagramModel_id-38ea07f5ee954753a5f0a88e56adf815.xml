@@ -411,7 +411,7 @@
           </sourceConnections>
           <bounds
               x="48"
-              y="132"
+              y="120"
               width="132"
               height="48"/>
           <archimateElement
@@ -434,7 +434,7 @@
           </sourceConnections>
           <bounds
               x="48"
-              y="216"
+              y="204"
               width="132"
               height="48"/>
           <archimateElement
@@ -592,16 +592,5 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-0244e982161a4a10a7f30d3396f5d8d8.xml#id-0244e982161a4a10a7f30d3396f5d8d8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-55187b71d0fa47f7a92a99f36d46c1ca"
-      textAlignment="1"
-      content="et avec un viewpoint inventory ? est-ce que qqch change ?&#xA;&#xA;pourquoi il y a-t-il 2x label genration et picking list? &#xA;&#xA;qu'est-ce que &quot;fn&quot; dans sales et inventory ?">
-    <bounds
-        x="240"
-        y="1032"
-        width="301"
-        height="164"/>
   </children>
 </archimate:ArchimateDiagramModel>
