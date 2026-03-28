@@ -432,8 +432,8 @@
       content="TO-BE Business Process Cooperation Viewpoint : Inventory-to-Delivery real-time inventory management&#xD;&#xA;"
       textPosition="1">
     <bounds
-        width="816"
-        height="72"/>
+        width="817"
+        height="85"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
