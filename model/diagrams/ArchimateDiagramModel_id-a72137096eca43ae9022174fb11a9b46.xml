@@ -558,6 +558,15 @@
           id="id-2614e763f241467c90041eaa43c1ad56"
           source="id-e5e4b34884eb4d35bf6e6fdf0e0d3708"
           target="id-46b965d14a3a44bca98c9ce925ea5d06">
+        <bendpoints
+            startY="45"
+            endX="-360"
+            endY="-348"/>
+        <bendpoints
+            startX="288"
+            startY="45"
+            endX="-72"
+            endY="-348"/>
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-50b57c524d1241efa7c1138206653454.xml#id-50b57c524d1241efa7c1138206653454"/>
