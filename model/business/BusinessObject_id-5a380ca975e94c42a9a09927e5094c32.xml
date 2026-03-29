@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QR Code Invent."
+    id="id-5a380ca975e94c42a9a09927e5094c32"
+    documentation="QR Code Scan, counting products, and inserting into the Odoo Inventory"/>
