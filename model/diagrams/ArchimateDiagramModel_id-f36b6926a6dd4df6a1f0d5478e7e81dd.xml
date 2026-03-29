@@ -21,8 +21,8 @@
       name="Application layer service"
       textAlignment="1">
     <bounds
-        x="144"
-        y="816"
+        x="60"
+        y="624"
         width="1020"
         height="108"/>
     <children
@@ -114,7 +114,7 @@
             href="ServingRelationship_id-d556ac04b0444933a26c66e7d78e5ddf.xml#id-d556ac04b0444933a26c66e7d78e5ddf"/>
       </sourceConnections>
       <bounds
-          x="792"
+          x="804"
           y="36"
           width="120"
           height="55"/>
@@ -129,8 +129,8 @@
       name="Application layer "
       textAlignment="1">
     <bounds
-        x="144"
-        y="960"
+        x="60"
+        y="768"
         width="1020"
         height="228"/>
     <children
@@ -281,8 +281,8 @@
       name="Business Layer"
       textAlignment="1">
     <bounds
-        x="144"
-        y="528"
+        x="60"
+        y="336"
         width="1020"
         height="248"/>
     <children
@@ -555,8 +555,8 @@
       name="Technology services"
       textAlignment="1">
     <bounds
-        x="144"
-        y="1236"
+        x="60"
+        y="1044"
         width="1020"
         height="140"/>
     <children
@@ -654,8 +654,8 @@
       name="Technology layer"
       textAlignment="1">
     <bounds
-        x="144"
-        y="1416"
+        x="60"
+        y="1224"
         width="1020"
         height="180"/>
     <children
@@ -752,16 +752,16 @@
             href="AccessRelationship_id-869dc6fe800e4a9b9f8405980af9c056.xml#id-869dc6fe800e4a9b9f8405980af9c056"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="48"
           y="36"
-          width="949"
+          width="925"
           height="133"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-476202e2932e49ceaef1b12882344693"
           targetConnections="id-db11ea94dfad4fb09a9d60b2d949449a">
         <bounds
-            x="324"
+            x="312"
             y="48"
             width="133"
             height="55"/>
@@ -774,7 +774,7 @@
           id="id-caccf4ec7e7942c6b7e09e63b98c4343"
           targetConnections="id-879073d62e0e410ba4b04221ecee6bfe">
         <bounds
-            x="624"
+            x="600"
             y="48"
             width="121"
             height="55"/>
@@ -787,8 +787,8 @@
           id="id-519fb6bf3d144bf9917ecbf843161cc0"
           targetConnections="id-89893b3fd76d416e8d8f19c0dec0e75f">
         <bounds
-            x="768"
-            y="48"
+            x="732"
+            y="47"
             width="157"
             height="58"/>
         <archimateElement
@@ -800,7 +800,7 @@
           id="id-cb7f7ef075b940cd987c901a5d6f6eec"
           targetConnections="id-aa17c89096e54200923800db3ae32da5">
         <bounds
-            x="468"
+            x="456"
             y="48"
             width="133"
             height="55"/>
@@ -826,7 +826,7 @@
           id="id-e9fd1643eb66484cbfb1bfd70c767c35"
           targetConnections="id-396ae45ff9664138827e58f6f574f8db">
         <bounds
-            x="180"
+            x="168"
             y="48"
             width="133"
             height="55"/>
@@ -845,8 +845,8 @@
       name="External role and actors"
       textAlignment="1">
     <bounds
-        x="144"
-        y="348"
+        x="60"
+        y="156"
         width="1020"
         height="140"/>
     <children

@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="To-Be Saas_ layered View"
-    id="id-f5e85747f8d64821b2b35553826592f9"/>
+    id="id-f5e85747f8d64821b2b35553826592f9">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-2f60e3c5135b4aa2abaaa314a4393791"
+      name="External roels and actors"
+      textAlignment="1">
+    <bounds
+        x="22"
+        y="74"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
