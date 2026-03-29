@@ -1025,16 +1025,4 @@
           href="BusinessRole_id-0d0ded3b58da44feb63cee4b43ba8827.xml#id-0d0ded3b58da44feb63cee4b43ba8827"/>
     </children>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-ce50750c2c9d4ded99e98d6989dca635">
-    <bounds
-        x="797"
-        y="352"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-a72137096eca43ae9022174fb11a9b46.xml#id-a72137096eca43ae9022174fb11a9b46"/>
-  </children>
 </archimate:ArchimateDiagramModel>
