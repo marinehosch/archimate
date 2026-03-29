@@ -473,9 +473,10 @@
                 startY="12"
                 endY="420"/>
             <bendpoints
-                startX="78"
-                startY="-180"
-                endY="228"/>
+                startX="186"
+                startY="12"
+                endX="12"
+                endY="420"/>
             <archimateRelationship
                 xsi:type="archimate:RealizationRelationship"
                 href="RealizationRelationship_id-f8ab12ecd4ae4be4b9407c527d1d93be.xml#id-f8ab12ecd4ae4be4b9407c527d1d93be"/>
@@ -500,13 +501,9 @@
               source="id-4f6d625f1edf45378e5e22c289009664"
               target="id-6620f018c2be4da4a0ce8bbc78be3f9e">
             <bendpoints
-                startX="-90"
+                startX="-138"
                 startY="12"
                 endY="504"/>
-            <bendpoints
-                startX="-90"
-                startY="-252"
-                endY="240"/>
             <archimateRelationship
                 xsi:type="archimate:RealizationRelationship"
                 href="RealizationRelationship_id-b81bd0eb13e24778b06265d721f85666.xml#id-b81bd0eb13e24778b06265d721f85666"/>
