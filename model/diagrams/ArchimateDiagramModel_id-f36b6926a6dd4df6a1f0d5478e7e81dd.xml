@@ -486,7 +486,7 @@
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-b2de4766288242c0aa2c914b5e633db1"
             source="id-2f72fc999e5c4e0386c0373660e663a2"
-            target="id-0e6de1a2f7e64bb28bc83eda1babaa37">
+            target="id-bfa86e7ba4964a8ca6395a270d6fb11b">
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-cf6f9b8f12b2489eaf389dce90acbe13.xml#id-cf6f9b8f12b2489eaf389dce90acbe13"/>
@@ -531,7 +531,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bfa86e7ba4964a8ca6395a270d6fb11b"
-        targetConnections="id-af5de719a43e450aabc05fedcbaa44ac">
+        targetConnections="id-af5de719a43e450aabc05fedcbaa44ac id-b2de4766288242c0aa2c914b5e633db1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a34697106c4f4880bbfbb7b215378085"
@@ -957,8 +957,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-0e6de1a2f7e64bb28bc83eda1babaa37"
-        targetConnections="id-b2de4766288242c0aa2c914b5e633db1">
+        id="id-0e6de1a2f7e64bb28bc83eda1babaa37">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-84b35abe4535433cbfd67ffaa0d004bf"
